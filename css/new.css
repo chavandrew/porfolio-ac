@@ -2,3 +2,12 @@
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 }
+
+section h2.section-heading {
+  margin-bottom: 125px;
+}
+header.masthead .intro-text .intro-lead-in{
+  font-style: normal;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
