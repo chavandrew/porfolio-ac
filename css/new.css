@@ -11,3 +11,8 @@ header.masthead .intro-text .intro-lead-in{
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 }
+.btn-primary {
+    background-color: black ;
+    border-color: black;
+
+}
