@@ -1,9 +1,11 @@
 #mainNav .navbar-brand{
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
+  font-family: 'Montserrat','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 header.masthead .intro-text .intro-lead-in{
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: normal;
+  font-family: 'Montserrat','Helvetica Neue',Helvetica,Arial,sans-serif
 
+}
+section h2.section-heading{
+  margin-bottom: 125px;
 }
