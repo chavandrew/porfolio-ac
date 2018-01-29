@@ -16,3 +16,8 @@ header.masthead .intro-text .intro-lead-in{
     border-color: black;
 
 }
+
+ul.social-buttons li a{
+  text-align: center;
+
+}
