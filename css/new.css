@@ -21,3 +21,13 @@ ul.social-buttons li a{
   text-align: center;
 
 }
+
+
+
+.service-heading {
+    margin: 75px 0;
+    text-transform: none;
+}
+#phone{
+  margin: 15px, 0;
+}
