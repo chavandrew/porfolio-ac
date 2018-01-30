@@ -167,10 +167,10 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/polariod-flowers.jpg");
+  background-image: url("../img/west-tex.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -593,7 +593,7 @@ header.masthead .intro-text .intro-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/polariod-flowers.jpg");
+  background-image: url("../img/west-tex1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

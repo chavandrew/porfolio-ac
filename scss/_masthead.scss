@@ -2,10 +2,10 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url('../img/polariod-flowers.jpg');
+  background-image: url('../img/west-tex.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-size: cover;
   @include background-cover;
   .intro-text {
     padding-top: 150px;
